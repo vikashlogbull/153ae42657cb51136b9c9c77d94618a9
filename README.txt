@@ -1,10 +1,3 @@
-CONTENTS OF THIS FILE
-CONTENTS OF THIS FILE
-Ashish
-CONTENTS OF THIS FILE
-Ashish
-CONTENTS OF THIS FILE
-Ashish
 ---------------------
 
  * About Drupal
