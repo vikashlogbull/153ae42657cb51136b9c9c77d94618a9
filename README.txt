@@ -1,7 +1,5 @@
+CONTENTS OF THIS FILE
 ---------------------
-CONTENTS OF THIS FILE
-CONTENTS OF THIS FILE
-Ashish
 
  * About Drupal
  * Configuration and features
