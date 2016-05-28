@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+Test Out the public git data on private git!
+Test Out the public git data on private git!
+Test Out the public git data on private git!
+Test Out the public git data on private git!
+Test Out the public git data on private git!
+
+>>>>>>> 8f6971ae73561efc88cee272b692bc1c5f07ffeb
 CONTENTS OF THIS FILE
 ---------------------
 
