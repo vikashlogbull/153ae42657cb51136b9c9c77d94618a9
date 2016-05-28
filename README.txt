@@ -1,7 +1,5 @@
 ---------------------
 CONTENTS OF THIS FILE
-Ashish
-Ashish
 CONTENTS OF THIS FILE
 Ashish
 
